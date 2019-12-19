@@ -2,6 +2,7 @@
 
 This repo contains the PyTorch code associated with [EventGAN: Leveraging Large Scale Image Datasets for Event Cameras](https://arxiv.org/abs/1912.01584). 
 
+For additional information, please see the video below (https://www.youtube.com/watch?v=Vcm4Iox4H2w):
 [![EventGAN Video](https://img.youtube.com/vi/Vcm4Iox4H2w/0.jpg)](https://www.youtube.com/watch?v=Vcm4Iox4H2w)
 
 ## Introduction
