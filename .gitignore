@@ -1,0 +1,9 @@
+*~
+*.pyc
+*#*
+*.xml
+*.png
+*.jpg
+*.hdf5
+data/*
+!data/*.txt

@@ -1,0 +1,1 @@
+EventGAN/data/mvsec/hdf5/outdoor_night/outdoor_night1_data.hdf5 0.0
